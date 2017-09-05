@@ -1,5 +1,5 @@
 # awesome-edd
-Plugins and code snippets for Easy Digital Downloads.
+Plugins and code snippets for [Easy Digital Downloads](https://easydigitaldownloads.com/).
 
 ## Table Of Contents
 * [Handy Code Snippets and Plugins](#handy-code-snippets-and-plugins)
