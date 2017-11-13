@@ -26,3 +26,4 @@ Plugins and code snippets for [Easy Digital Downloads](https://easydigitaldownlo
 * [EDD Customer Role Manager](https://wordpress.org/plugins/edd-simple-after-payment-redirect/) - Easy Digital Downloads Customer Role Manager.
 * [BuddyForms Easy Digital Downloads](https://github.com/BuddyForms/BuddyForms-Easy-Digital-Downloads) - This Plugin adds a new section to the BuddyForms Form Builder with all EDD fields to create Product creation forms for the front-end.
 * [Easy Digital Downloads Free Link](https://github.com/BuddyForms/BuddyForms-Easy-Digital-Downloads) - Replace add-to-cart button with download link when product is free.
+* [Easy Digital Downloads – Related Downloads](https://wordpress.org/plugins/easy-digital-downloads-related-downloads/) - Show related downloads by tag or category when using Easy Digital Downloads plugin.
