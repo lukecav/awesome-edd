@@ -23,3 +23,4 @@ Plugins and code snippets for [Easy Digital Downloads](https://easydigitaldownlo
 * [CartHook for Easy Digital Downloads](https://wordpress.org/plugins/carthook-for-easy-digital-downloads/) - CartHook helps you increase revenue by automatically recovering abandoned carts.
 * [Easy Digital Downloads - Google AdWords](https://wordpress.org/plugins/edd-google-adwords/) - Adding Google AdWords support for Easy Digital Downloads.
 * [EDD Redirect after payment](https://wordpress.org/plugins/edd-simple-after-payment-redirect/) - Redirect to a custom URL after successful purchase.
+* [EDD Customer Role Manager](https://wordpress.org/plugins/edd-simple-after-payment-redirect/) - Easy Digital Downloads Customer Role Manager.
