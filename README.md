@@ -12,3 +12,4 @@ Plugins and code snippets for [Easy Digital Downloads](https://easydigitaldownlo
 * [EDD Software Licensing Version Quick Edit](https://wordpress.org/plugins/edd-software-licensing-version-quick-edit/) - Easily edit a Software Licensing enabled EDD product via quick edit.
 * [EDD Polylang](https://github.com/grappler/edd-polylang/) - Run multilingual e-commerce sites with Easy Digital Downloads and Polylang.
 * [EDD Sale Price](https://wordpress.org/plugins/edd-sale-price/) - Put your digital products on sale.
+* [EDD CartStack](https://github.com/FacetWP/edd-cartstack) - Recoup sales due to cart abandonment.
