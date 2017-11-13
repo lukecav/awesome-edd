@@ -10,4 +10,5 @@ Plugins and code snippets for [Easy Digital Downloads](https://easydigitaldownlo
 * [EDD View More](https://wordpress.org/plugins/edd-view-more/) - Add a view more link on products lists.
 * [EDD Download Actions](https://wordpress.org/plugins/edd-download-actions/) - Add multiple actions to any product.
 * [EDD Software Licensing Version Quick Edit](https://wordpress.org/plugins/edd-software-licensing-version-quick-edit/) - Easily edit a Software Licensing enabled EDD product via quick edit.
-* [EDD Polylang](https://github.com/grappler/edd-polylang/) - Run multilingual e-commerce sites with Easy Digital Downloads and Polylang
+* [EDD Polylang](https://github.com/grappler/edd-polylang/) - Run multilingual e-commerce sites with Easy Digital Downloads and Polylang.
+* [EDD Sale Price](https://wordpress.org/plugins/edd-sale-price/) - Put your digital products on sale.
