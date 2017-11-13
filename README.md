@@ -9,3 +9,4 @@ Plugins and code snippets for [Easy Digital Downloads](https://easydigitaldownlo
 * [Jilt for Easy Digital Downloads](https://wordpress.org/plugins/jilt-for-edd/) - Recover abandoned carts and boost revenue by 15% or more in under 15 minutes.
 * [EDD View More](https://wordpress.org/plugins/edd-view-more/) - Add a view more link on products lists.
 * [EDD Download Actions](https://wordpress.org/plugins/edd-download-actions/) - Add multiple actions to any product.
+* [EDD Software Licensing Version Quick Edit](https://wordpress.org/plugins/edd-software-licensing-version-quick-edit/) - Easily edit a Software Licensing enabled EDD product via quick edit.
