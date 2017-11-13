@@ -24,3 +24,4 @@ Plugins and code snippets for [Easy Digital Downloads](https://easydigitaldownlo
 * [Easy Digital Downloads - Google AdWords](https://wordpress.org/plugins/edd-google-adwords/) - Adding Google AdWords support for Easy Digital Downloads.
 * [EDD Redirect after payment](https://wordpress.org/plugins/edd-simple-after-payment-redirect/) - Redirect to a custom URL after successful purchase.
 * [EDD Customer Role Manager](https://wordpress.org/plugins/edd-simple-after-payment-redirect/) - Easy Digital Downloads Customer Role Manager.
+* [BuddyForms Easy Digital Downloads](https://github.com/BuddyForms/BuddyForms-Easy-Digital-Downloads) - This Plugin adds a new section to the BuddyForms Form Builder with all EDD fields to create Product creation forms for the front-end.
