@@ -1,4 +1,4 @@
-# awesome-edd
+# Awesome EDD
 Plugins and code snippets for [Easy Digital Downloads](https://easydigitaldownloads.com/).
 
 ## Table Of Contents
