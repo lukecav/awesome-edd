@@ -28,3 +28,5 @@ Plugins and code snippets for [Easy Digital Downloads](https://easydigitaldownlo
 * [Easy Digital Downloads Free Link](https://github.com/BuddyForms/BuddyForms-Easy-Digital-Downloads) - Replace add-to-cart button with download link when product is free.
 * [Easy Digital Downloads – Related Downloads](https://wordpress.org/plugins/easy-digital-downloads-related-downloads/) - Show related downloads by tag or category when using Easy Digital Downloads plugin.
 * [Add to Cart button Text for Easy Digital Downloads](https://wordpress.org/plugins/edd-add-to-cart-text/) - Add an "Add to cart text" option for your downloads to change the text on the "Add to cart" button for that particular download.
+* [EDD Metrics](https://github.com/scottopolis/edd-metrics) - All the stats, analytics, and metrics you need when selling stuff with Easy Digital Downloads.
+* [Easy Digital Downloads - Optimize Checkout](https://github.com/cklosowski/edd-checkout-optimizer) - Allows site owners to optimize their checkout assets.
