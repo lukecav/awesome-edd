@@ -30,3 +30,4 @@ Plugins and code snippets for [Easy Digital Downloads](https://easydigitaldownlo
 * [Add to Cart button Text for Easy Digital Downloads](https://wordpress.org/plugins/edd-add-to-cart-text/) - Add an "Add to cart text" option for your downloads to change the text on the "Add to cart" button for that particular download.
 * [EDD Metrics](https://github.com/scottopolis/edd-metrics) - All the stats, analytics, and metrics you need when selling stuff with Easy Digital Downloads.
 * [Easy Digital Downloads - Optimize Checkout](https://github.com/cklosowski/edd-checkout-optimizer) - Allows site owners to optimize their checkout assets.
+* [Easy Digital Downloads – Commission Taxonomy Rates](https://wordpress.org/plugins/edd-commission-taxonomy-rates/) - Set commission rates on a per-category or tag basis.
