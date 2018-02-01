@@ -32,3 +32,4 @@ Plugins and code snippets for [Easy Digital Downloads](https://easydigitaldownlo
 * [Easy Digital Downloads - Optimize Checkout](https://github.com/cklosowski/edd-checkout-optimizer) - Allows site owners to optimize their checkout assets.
 * [Easy Digital Downloads – Commission Taxonomy Rates](https://wordpress.org/plugins/edd-commission-taxonomy-rates/) - Set commission rates on a per-category or tag basis.
 * [Easy Digital Downloads – Commission Thresholds](https://wordpress.org/plugins/edd-commission-thresholds/) - Disable commissions until a specific sales or earnings threshold has been met.
+* [Easy Digital Downloads - Commission Notes](https://github.com/davidsherlock/edd-commission-notes) - Record commission notes and allow your vendors to easily view them.
