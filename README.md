@@ -34,4 +34,5 @@ Plugins and code snippets for [Easy Digital Downloads](https://easydigitaldownlo
 * [Easy Digital Downloads – Commission Thresholds](https://wordpress.org/plugins/edd-commission-thresholds/) - Disable commissions until a specific sales or earnings threshold has been met.
 * [Easy Digital Downloads - Commission Notes](https://github.com/davidsherlock/edd-commission-notes) - Record commission notes and allow your vendors to easily view them.
 * [Easy Digital Downloads – FES Pricing Restrictions](https://wordpress.org/plugins/edd-fes-pricing-restrictions/) - Force minimum and maximum pricing requirements on FES product submissions.
-* [EDD TaxJar](https://wordpress.org/plugins/edd-taxjar/) - Calculate sales tax through automatically TaxJar.com
+* [EDD TaxJar](https://wordpress.org/plugins/edd-taxjar/) - Calculate sales tax through automatically TaxJar.com.
+* [EDD PDF Invoice Generator](https://wordpress.org/plugins/edd-invoiced/) - DF Invoice generator for EDD using invoice-generator.com.
