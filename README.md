@@ -35,4 +35,5 @@ Plugins and code snippets for [Easy Digital Downloads](https://easydigitaldownlo
 * [Easy Digital Downloads - Commission Notes](https://github.com/davidsherlock/edd-commission-notes) - Record commission notes and allow your vendors to easily view them.
 * [Easy Digital Downloads – FES Pricing Restrictions](https://wordpress.org/plugins/edd-fes-pricing-restrictions/) - Force minimum and maximum pricing requirements on FES product submissions.
 * [EDD TaxJar](https://wordpress.org/plugins/edd-taxjar/) - Calculate sales tax through automatically TaxJar.com.
-* [EDD PDF Invoice Generator](https://wordpress.org/plugins/edd-invoiced/) - DF Invoice generator for EDD using invoice-generator.com.
+* [EDD PDF Invoice Generator](https://wordpress.org/plugins/edd-invoiced/) - PDF Invoice generator for EDD using invoice-generator.com.
+* [EDD Google Customer Reviews](https://wordpress.org/plugins/edd-google-customer-reviews/) - Allows Google Customer Reviews opt-in code to be inserted into Easy Digital Downloads.
