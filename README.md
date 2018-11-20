@@ -37,4 +37,4 @@ Plugins and code snippets for [Easy Digital Downloads](https://easydigitaldownlo
 * [EDD TaxJar](https://wordpress.org/plugins/edd-taxjar/) - Calculate sales tax through automatically TaxJar.com.
 * [EDD PDF Invoice Generator](https://wordpress.org/plugins/edd-invoiced/) - PDF Invoice generator for EDD using invoice-generator.com.
 * [EDD Google Customer Reviews](https://wordpress.org/plugins/edd-google-customer-reviews/) - Allows Google Customer Reviews opt-in code to be inserted into Easy Digital Downloads.
-* [Easy Digital Downloads - Blocks](https://github.com/easydigitaldownloads/edd-blocks) - Blocks for Easy Digital Downloads and Gutenberg.
+* [Easy Digital Downloads – Blocks](https://wordpress.org/plugins/edd-blocks/) - Blocks for Easy Digital Downloads and Gutenberg.
