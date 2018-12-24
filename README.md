@@ -38,3 +38,4 @@ Plugins and code snippets for [Easy Digital Downloads](https://easydigitaldownlo
 * [EDD PDF Invoice Generator](https://wordpress.org/plugins/edd-invoiced/) - PDF Invoice generator for EDD using invoice-generator.com.
 * [EDD Google Customer Reviews](https://wordpress.org/plugins/edd-google-customer-reviews/) - Allows Google Customer Reviews opt-in code to be inserted into Easy Digital Downloads.
 * [Easy Digital Downloads – Blocks](https://wordpress.org/plugins/edd-blocks/) - Blocks for Easy Digital Downloads and Gutenberg.
+* [Bulk Edit Easy Digital Downloads in Spreadsheet](https://wordpress.org/plugins/wp-sheet-editor-edd-downloads/) - Edit Easy Digital Downloads in spreadsheet.
