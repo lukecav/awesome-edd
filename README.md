@@ -39,3 +39,4 @@ Plugins and code snippets for [Easy Digital Downloads](https://easydigitaldownlo
 * [EDD Google Customer Reviews](https://wordpress.org/plugins/edd-google-customer-reviews/) - Allows Google Customer Reviews opt-in code to be inserted into Easy Digital Downloads.
 * [Easy Digital Downloads – Blocks](https://wordpress.org/plugins/edd-blocks/) - Blocks for Easy Digital Downloads and Gutenberg.
 * [Bulk Edit Easy Digital Downloads in Spreadsheet](https://wordpress.org/plugins/wp-sheet-editor-edd-downloads/) - Edit Easy Digital Downloads in spreadsheet.
+* [Easy Digital Downloads - Expired Discount Code Notifier](https://github.com/elearningplugins/edd-invalid-discount-code-notifier) - Notifies the store owner via email when a customer attempts to make a purchase with an expired discount code.
