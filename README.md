@@ -41,3 +41,4 @@ Plugins and code snippets for [Easy Digital Downloads](https://easydigitaldownlo
 * [Bulk Edit Easy Digital Downloads in Spreadsheet](https://wordpress.org/plugins/wp-sheet-editor-edd-downloads/) - Edit Easy Digital Downloads in spreadsheet.
 * [Easy Digital Downloads - Expired Discount Code Notifier](https://github.com/elearningplugins/edd-invalid-discount-code-notifier) - Notifies the store owner via email when a customer attempts to make a purchase with an expired discount code.
 * [EDD Login On Checkout](https://ironikus.com/downloads/edd-login-on-checkout/) - Add a password field to the checkout.
+* [Recapture for Easy Digital Downloads](https://wordpress.org/plugins/recapture-for-edd/) - Recapture helps you increase revenue by automatically recovering abandoned carts.
