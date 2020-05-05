@@ -46,3 +46,4 @@ Plugins and code snippets for [Easy Digital Downloads](https://easydigitaldownlo
 * [Recapture for Easy Digital Downloads](https://wordpress.org/plugins/recapture-for-edd/) - Recapture helps you increase revenue by automatically recovering abandoned carts.
 * [Checkout Styler for Easy Digital Downloads](https://wordpress.org/plugins/checkout-styler-for-easy-digital-downloads/) - Provide Easy Digital Downloads styling options in customizer.
 * [Easy Digital Downloads - Maximum Discount Allowed](https://github.com/elearningplugins/edd-maxium-discount-allowed) - Allows you to set a max discount for percentage discount coupon.
+* [Coupon Counter for EDD](https://wordpress.org/plugins/edd-coupon-counter/) - Display the amount of Discount codes that are left/used with Easy Digital Downloads (EDD).
