@@ -48,3 +48,4 @@ Plugins and code snippets for [Easy Digital Downloads](https://easydigitaldownlo
 * [Easy Digital Downloads - Maximum Discount Allowed](https://github.com/elearningplugins/edd-maxium-discount-allowed) - Allows you to set a max discount for percentage discount coupon.
 * [Coupon Counter for EDD](https://wordpress.org/plugins/edd-coupon-counter/) - Display the amount of Discount codes that are left/used with Easy Digital Downloads (EDD).
 * [Addonify reCaptcha For EDD](https://wordpress.org/plugins/addonify-recaptcha-for-edd/) - Addonify reCaptcha For EDD is a simple plugin that adds Google reCaptcha in Easy Digital Downloads login and registration forms.
+* [Notifications on Discord for Easy Digital Downloads](https://wordpress.org/plugins/edd-discord-notifications/) - Send notifications of new orders and status changes of Easy Digital Downloads orders directly to a Discord channel.
