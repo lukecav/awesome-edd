@@ -52,3 +52,4 @@ Plugins and code snippets for [Easy Digital Downloads](https://easydigitaldownlo
 * [EDD – PDF Invoice Bulk Downloader](https://wordpress.org/plugins/edd-pdf-invoices-bulk-download/) - Adds a Bulk-Download button to the "Easy Digital Downloads - PDF Invoices" plugin.
 * [Payment Gateway Paddle for Easy Digital Downloads](https://wordpress.org/plugins/payment-gateway-paddle-for-easy-digital-downloads/) - This is Paddle Payment Gateway plugin for Easy Digital Downloads.
 * [User Dashboard – Easy Digital Downloads](https://wordpress.org/plugins/user-dashboard-easy-digital-downloads/) - Simple and light weight plugin to add an <strong> User Dashboard Page</strong> to easy digital downloads plugin.
+* [eCommerce Analytics for Easy Digital Downloads](https://wordpress.org/plugins/edd-ecommerce-analytics/) - Send the Easy Digital Downloads events to Google Analytics (GA4).
